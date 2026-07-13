@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Night-Workdays",
+    "StartCron": "0 1 * * 1-5",
+    "StopCron": "0 7 * * 1-5",
+    "BotNames": "@ALL",
+    "Enabled": true,
+    "LastStartFireKey": null,
+    "LastStopFireKey": null
+  }
+]
